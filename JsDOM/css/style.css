@@ -1,0 +1,142 @@
+[data-toggle='modal']{
+    margin: 10px 10px;
+    color: red;
+    border: 2px solid white;
+    padding: 20px;
+}
+[data-title]{
+    color: red;
+}
+h1,div{
+    padding: 10px;
+}
+p{
+    padding: 30px
+}
+
+.body.clouds{
+    background-color: #ecf0f1;
+}
+.body.flatFlesh{
+    background-color: #fad390;
+}
+
+.container{
+    padding: 100px 30px;
+    margin: 30px 100px;
+    background-color: white;
+}
+.container.boxed{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 1);
+}
+
+.xinChao{
+    background-color: #7ed6df;
+    border: 2px solid #22a6b3;
+    padding: 30px 0px;
+}
+
+.xinChao.color0{
+    background-color: #f0932b;
+    border: 2px solid #f0932b;
+}
+.xinChao.color1{
+    background-color: #ff7979;
+    border: 2px solid #ff7979;
+}
+
+.xinChao.color2{
+    background-color: #badc58;
+    border: 2px solid #badc58;
+}
+
+.xinChao.color3{
+    background-color: #c7ecee;
+    border: 2px solid #c7ecee;
+}
+
+.xinChao.color4{
+    background-color: #e056fd;
+    border: 2px solid #e056fd;
+}
+
+.xinChao.color5{
+    background-color: #f9ca24;
+    border: 2px solid #f9ca24;
+}
+
+.xinChao.color6{
+    background-color: #22a6b3;
+    border: 2px solid #22a6b3;
+}
+
+.xinChao.color7{
+    background-color: #4b4b4b;
+    border: 2px solid #4b4b4b;
+}
+
+.xinChao.color8{
+    background-color: #fff200;
+    border: 2px solid #fff200;
+}
+
+.addClass{
+    color: red;
+    background-color: #f6e58d;
+    padding: 20px 0px;
+    margin: 10px;
+}
+
+.btn-me{
+    background-color: #1bb906;
+    color: white;
+    padding: 20px;
+    margin: 20px 30px;
+    border: turquoise;
+}
+.btn-me:hover{
+    background-color: yellowgreen;
+}
+
+.dropdown{
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dropdown .btn{
+    background-color: #fff;
+    border: 0;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 250px;
+    box-shadow: 1px 1px 10px 0 rgba(0, 0, 0,0.4);
+}
+/* .dropdown .show .dropdown-menu{
+    display: block;
+} */
+.dropdown .dropdown-menu{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 200px;
+    left: 250px;
+    top: 0;
+    z-index: 2;
+    background-color: #fff;
+    list-style-type: none;
+    box-shadow: 1px 1px 10px 0 rgba(0, 0, 0,0.5);
+}
+.dropdown-menu li{
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+}
+.dropdown-menu li a{
+    text-decoration: none;
+    color: black;
+}
+.dropdown-menu li:hover{
+    background-color: #eee;
+}
+
+
+
